@@ -1,0 +1,23 @@
+{
+    "_id" :"user001",
+    "email" : "JohnSmith@emailprovider.com",
+    "first_name" : "John",
+
+    "gardens" : [
+        {
+            "_id" : "dverff231w",
+            "plants" : [
+                {
+                    "plant_id" : "plant id",
+                    "plant_image" : "img url",
+                    "devices" : [
+                        "device_01",
+                        "device_02"
+
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
